@@ -2,7 +2,7 @@
 """
 Created on Sat May 29 13:03:46 2021
 
-@author: Akhil
+@author: Ankit
 """
 
 import discord
@@ -104,4 +104,4 @@ async def on_message(message):
 keep_alive()
 
 
-client.run(os.getenv('TOKEN'))
+client.run(os.getenv('Nzk4NTkzNDMwNTk0NjUwMTc0.X_3SFw.DU8MV9iBwjBjhJBrtUx0IpMeZ-A'))
